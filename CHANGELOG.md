@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [1.11.15](https://github.com/pawamoy/copier-uv/releases/tag/1.11.15) - 2026-03-05
+
+<small>[Compare with 1.11.14](https://github.com/pawamoy/copier-uv/compare/1.11.14...1.11.15)</small>
+
+### Code Refactoring
+
+- Add note about always opening an issue before creating a PR ([d66997c](https://github.com/pawamoy/copier-uv/commit/d66997cbdf86381cae6baf410e3984603d2a73e1) by Timothée Mazzucotelli).
+- Add "contributors" to the ISC license copyright holders ([3c27adc](https://github.com/pawamoy/copier-uv/commit/3c27adce725c761916e3da2326a963f304971869) by Timothée Mazzucotelli).
+
 ## [1.11.14](https://github.com/pawamoy/copier-uv/releases/tag/1.11.14) - 2026-02-21
 
 <small>[Compare with 1.11.13](https://github.com/pawamoy/copier-uv/compare/1.11.13...1.11.14)</small>
