@@ -29,13 +29,13 @@ Similar templates:
 Make sure all the [requirements](https://pawamoy.github.io/copier-uv/requirements) are met, then:
 
 ```bash
-copier copy --trust "https://github.com/pawamoy/copier-uv.git" /path/to/your/new/project
+copier copy --trust "https://github.com/besenbacher/sb-copier-uv.git" /path/to/your/new/project
 ```
 
 Or even shorter:
 
 ```bash
-copier copy --trust "gh:pawamoy/copier-uv" /path/to/your/new/project
+copier copy --trust "gh:besenbacher/sb-copier-uv" /path/to/your/new/project
 ```
 
 See the [documentation](https://pawamoy.github.io/copier-uv) for more details.
